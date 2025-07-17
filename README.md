@@ -26,10 +26,6 @@ For full access to datasets, detailed pipelines, and documentation, please visit
 
 ### Contact
 
-[adam.boussif@etu.univ-lyon1.fr](mailto:adam.boussif@etu.univ-lyon1.fr)
-[noe.dlouhy@etu.univ-lyon1.fr](mailto:noe.dlouhy@etu.univ-lyon1.fr)
-[jordan.dutel@etu.univ-lyon1.fr](mailto:jordan.dutel@etu.univ-lyon1.fr)
-
----
-
-Veux-tu aussi une version très courte (1-2 phrases) en anglais scientifique pour la description GitHub ?
+- [jordan.dutel@etu.univ-lyon1.fr](mailto:jordan.dutel@etu.univ-lyon1.fr)
+- [adam.boussif@etu.univ-lyon1.fr](mailto:adam.boussif@etu.univ-lyon1.fr)
+- [noe.dlouhy@etu.univ-lyon1.fr](mailto:noe.dlouhy@etu.univ-lyon1.fr)
